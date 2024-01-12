@@ -1,6 +1,8 @@
 
 body {
     font-family: Arial, sans-serif;
+    background-color: blue; /* Add this line to set the background color to blue */
+
 }
 header {
     background-color: #f8f9fa;
@@ -13,4 +15,4 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 10px;
-}
+
